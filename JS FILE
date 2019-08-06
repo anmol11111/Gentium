@@ -1,0 +1,68 @@
+$(document).ready(function(){
+  $(".a1").hover(function(){
+    $(".style1").animate({width: '25px',opacity:1});
+  });
+  $(".a1").mouseleave(function(){
+    $(".style1").animate({width: '1px',opacity:0});
+  });
+});
+
+$(document).ready(function(){
+  $(".a2").hover(function(){
+    $(".style2").animate({width: '25px',opacity:1});
+  });
+  $(".a2").mouseleave(function(){
+    $(".style2").animate({width: '1px',opacity:0});
+  });
+});
+$(document).ready(function(){
+  $(".a3").hover(function(){
+    $(".style3").animate({width: '25px',opacity:1});
+  });
+  $(".a3").mouseleave(function(){
+    $(".style3").animate({width: '1px',opacity:0});
+  });
+});
+$(document).ready(function(){
+  $(".a4").hover(function(){
+    $(".style4").animate({width: '25px',opacity:1});
+  });
+  $(".a4").mouseleave(function(){
+    $(".style4").animate({width: '1px',opacity:0});
+  });
+});
+$(document).ready(function(){
+  $(".a5").hover(function(){
+    $(".style5").animate({width: '25px',opacity:1});
+  });
+  $(".a5").mouseleave(function(){
+    $(".style5").animate({width: '1px',opacity:0});
+  });
+})
+
+$(document).ready(function(){
+  $(".a6").hover(function(){
+    $(".style6").animate({width: '25px',opacity:1});
+  });
+  $(".a6").mouseleave(function(){
+    $(".style6").animate({width: '1px',opacity:0});
+  });
+})
+
+$(document).ready(function(){
+  $(".a7").hover(function(){
+    $(".style7").animate({width: '25px',opacity:1});
+  });
+  $(".a7").mouseleave(function(){
+    $(".style7").animate({width: '1px',opacity:0});
+  });
+})
+
+$(document).ready(function(){
+  $(".a8").hover(function(){
+    $(".style8").animate({width: '25px',opacity:1});
+  });
+  $(".a8").mouseleave(function(){
+    $(".style8").animate({width: '1px',opacity:0});
+  });
+})
